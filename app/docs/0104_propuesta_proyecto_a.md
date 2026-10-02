@@ -88,7 +88,7 @@ El usuario dedicaría aproximadamente entre 5 y 15 minutos a cada idea, pudiendo
 > Dibuja las pantallas principales. A mano y fotografiado es válido.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
 
-    bocetoDamProg.pdf
+[bocetoDamProg.pdf](res/bocetoDamProg.pdf)
 
 ---
 
